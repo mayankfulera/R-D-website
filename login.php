@@ -7,7 +7,15 @@ if($_SERVER['REQUEST_METHOD']=='POST')
 		$sql="SELECT * from registrations where username='$name' and password='$pass'";
 		$result=mysqli_query($conn, $sql) or die(mysqli_error($conn));
 		$count=mysqli_num_rows($result);
-
+		echo "<p>$count</p>";
+		if(mysqli_num_rows($result)==1)
+		{	$serial=mysqli_fetch_array($result)['serial'];
+			$sql="select * from registrations where serial='$serial' ";
+			$result=mysqli_query($conn, $sql);
+			session_start();
+			mysqli_close($conn);
+			header('location: dashboard.php');
+		}
 
 	mysqli_close($conn);
 }else
