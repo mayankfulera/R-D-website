@@ -37,7 +37,15 @@
 			{
 				die("Username Already Exists");$flag=0;
 			}
+			else
+			{
+			$sql="INSERT INTO registrations(fname,lname,email,mob,college,username,password) VALUES( '" . $fname . "' ,'" . $lname . "','" . $email. "' ,'" . $mob . "','" . $college . "','" . $uname . "','" . $password . "')";
+			if(mysqli_query($conn, $sql))
+				echo "<p>Record Inserted in login_data!!</p>";
+			else 
+				{echo "<p>Record could not be inserted in login_data</p>" . mysqli_error($conn);$flag=0;}
 
+		}
 		}
 	}
 		mysqli_close($conn);
