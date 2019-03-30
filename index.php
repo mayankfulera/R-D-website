@@ -15,7 +15,33 @@ $a=$_SESSION['login_user'];
 	<meta name="viewport" content="width=device-width, initial-scale=1", user-scalable=no>
 
 
+	<?php
+	if(!(empty($_GET['msg'])) and  $_SESSION['index_page_redirect_counter'])
+	{
+		?>
+		<script type="text/javascript">
+		alert("You have signed up Successfully");
+		</script>
+		<?php
+		$_SESSION['index_page_redirect_counter']=false;
+	}
 
+	?>
+	<script type="text/javascript">
+	function validate()
+	{
+		var n=document.forms['signup_form']['name'].value;
+		for(i=0;i<n.length;i++)
+		{
+			var a=n.charCodeAt(i);
+			if(a>=48 && a<=57)
+			{	document.getElementById("2").reset();
+				alert("There is a number in the name?? :D");
+				return false;
+			}
+		}
+	}
+	</script>
 
 	<title>Home Page!! </title>
 	<style type="text/css">
