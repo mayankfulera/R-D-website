@@ -13,9 +13,16 @@ if($_SERVER['REQUEST_METHOD']=='POST')
 			$sql="select * from registrations where serial='$serial' ";
 			$result=mysqli_query($conn, $sql);
 			session_start();
+			
+			$_SESSION['login_user']=mysqli_fetch_array($result);
+			$_SESSION['login']=true;
+
+
 			mysqli_close($conn);
 			header('location: dashboard.php');
 		}
+		else
+			{echo "Wrong Credentials";}
 
 	mysqli_close($conn);
 }else
