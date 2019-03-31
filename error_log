@@ -1,0 +1,134 @@
+[31-Mar-2019 01:17:36 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:17:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:17:41 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:18:07 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:18:07 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:18:07 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:20:30 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:20:30 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:20:30 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:28:36 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:28:36 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:28:36 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:29:00 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 6
+[31-Mar-2019 01:29:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:29:00 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:30:23 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:30:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:30:23 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:36:08 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:36:08 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:36:08 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:37:40 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:37:40 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:37:40 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:39:20 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 6
+[31-Mar-2019 01:39:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:39:20 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:43:41 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 6
+[31-Mar-2019 01:43:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:43:41 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:44:07 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:44:07 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:44:07 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 173
+[31-Mar-2019 01:52:23 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:52:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ieeejkma_rndexpot'@'localhost' (using password: YES) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:52:23 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 174
+[31-Mar-2019 01:54:10 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:54:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ieeejkma_rndexpot'@'localhost' (using password: YES) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 01:54:10 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 174
+[31-Mar-2019 01:54:53 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 01:54:53 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 01:55:02 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 6
+[31-Mar-2019 01:55:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:55:02 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:56:59 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 6
+[31-Mar-2019 01:56:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:56:59 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:57:52 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 2
+[31-Mar-2019 01:57:52 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:57:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 01:57:52 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 01:59:44 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 01:59:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 01:59:44 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:01:28 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 02:01:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:01:28 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:02:26 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 02:02:26 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 02:02:46 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 02:02:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:02:46 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:03:29 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 02:03:33 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 02:03:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 02:03:33 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 174
+[31-Mar-2019 02:03:45 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 02:03:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/signup.php on line 170
+[31-Mar-2019 02:03:45 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ieeejkma/public_html/RnDexpo/signup.php on line 174
+[31-Mar-2019 02:04:13 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 02:04:13 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 02:06:55 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/index.php on line 2
+[31-Mar-2019 02:07:30 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 02:07:30 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 02:07:36 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 02:07:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:07:36 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 02:07:42 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/index.php on line 2
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: fname in /home/ieeejkma/public_html/RnDexpo/signup.php on line 160
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: lname in /home/ieeejkma/public_html/RnDexpo/signup.php on line 161
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: email in /home/ieeejkma/public_html/RnDexpo/signup.php on line 162
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: college in /home/ieeejkma/public_html/RnDexpo/signup.php on line 163
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: uname in /home/ieeejkma/public_html/RnDexpo/signup.php on line 166
+[31-Mar-2019 07:37:40 Etc/GMT] PHP Notice:  Undefined index: pass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 167
+[31-Mar-2019 07:37:42 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/index.php on line 2
+[31-Mar-2019 07:37:52 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/index.php on line 2
+[31-Mar-2019 07:38:11 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/register.php on line 2
+[31-Mar-2019 07:38:33 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 07:38:37 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 07:38:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 07:38:37 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 07:38:42 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 07:58:19 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 07:59:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/register.php on line 2
+[31-Mar-2019 07:59:11 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/login.php on line 4
+[31-Mar-2019 07:59:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 07:59:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 07:59:16 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 08:05:56 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 8
+[31-Mar-2019 08:05:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 08:05:56 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 10
+[31-Mar-2019 08:23:02 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ieeejkma_rndexpo'@'localhost' to database 'ieeejkma_ieee' in /home/ieeejkma/public_html/RnDexpo/index.php on line 2
+[31-Mar-2019 08:50:06 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 08:51:16 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 08:51:52 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 08:52:14 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 08:57:09 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 10:29:03 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 10:32:13 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 10:34:02 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 10:37:55 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 11:36:26 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 11:52:49 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 11:53:16 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 11:54:19 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 11:55:00 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 11:56:18 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 12:02:11 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 12:02:39 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 12:04:09 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 12:04:34 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: fname in /home/ieeejkma/public_html/RnDexpo/signup.php on line 160
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: lname in /home/ieeejkma/public_html/RnDexpo/signup.php on line 161
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: email in /home/ieeejkma/public_html/RnDexpo/signup.php on line 162
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: college in /home/ieeejkma/public_html/RnDexpo/signup.php on line 163
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: mob in /home/ieeejkma/public_html/RnDexpo/signup.php on line 164
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: uname in /home/ieeejkma/public_html/RnDexpo/signup.php on line 166
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: pass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 167
+[31-Mar-2019 12:12:38 Etc/GMT] PHP Notice:  Undefined index: repass in /home/ieeejkma/public_html/RnDexpo/signup.php on line 168
+[31-Mar-2019 13:42:38 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 13:47:10 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 14:55:50 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
+[31-Mar-2019 15:02:14 Etc/GMT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/ieeejkma/public_html/RnDexpo/login_script.php on line 40
